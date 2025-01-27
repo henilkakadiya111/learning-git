@@ -3,3 +3,4 @@ console.log("hello buddy chnages by contributor")
 
 console.log("ungvshdg");
 console.log(a);
+console.log(b);
