@@ -1,6 +1,3 @@
 console.log("hello main")
 console.log("hello buddy chnages by contributor")
-console.log("jijij")
-console.log("vvvvvvvvvv")
-console.log("vvvsssssssssvvv")
-console.log("zzzzzz")
+
